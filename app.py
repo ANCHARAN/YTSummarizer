@@ -69,7 +69,7 @@ def extract_transcript_details(youtube_video_url):
     except Exception as e:
         raise e
 
-
+st.set_page_config(page_title="YoutubeVideoSummarizer", page_icon="📚", layout="wide")
 ## Getting the summary based on Prompt from Google Gemini Pro
 def generate_gemini_content(transcript_text,prompt):
     model=genai.GenerativeModel("gemini-pro")
