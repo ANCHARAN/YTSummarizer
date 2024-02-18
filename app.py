@@ -51,6 +51,8 @@ Structure of the Notes:
     Foster interactivity by incorporating quizzes, questions, and prompts for self-assessment.
     Encourage active engagement for better retention.
 
+Expalin each section in great detail and use simple terms and provide glossary fro difficult terms . Articulate matter in an user appeasing manner and in detail with simple understanding examples.  
+
 """
 
 ##Getting the transcript from yt videos using the video_id from the url
