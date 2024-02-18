@@ -1,0 +1,14 @@
+Youtube Video URl - https://www.youtube.com/watch?v=HFfXvfFe9F8
+
+Tutor - Krish Naik
+
+Used - Gemini Free Tier API Key, Streamlit, YouTube_Transcript_Api -> Python api for extracting transcripts from videos in youtube
+
+Imp Things -
+1) Learning to extract youtube video transcripts
+2) using api to extract thumbnails
+3) Using gemini model to generate notes
+
+Command to run the app -
+1) Activate the environment - conda activate venv/
+2) Run the stramlit app - streamlit run app.py
